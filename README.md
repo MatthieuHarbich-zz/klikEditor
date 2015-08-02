@@ -1,5 +1,5 @@
 # klikEditor
-This addon propose some intersting tools to create an editor.
+This addon propose some interesting tools to create an editor.
 
 #### If your layer is a graphic one, you can use this following methods:
 
